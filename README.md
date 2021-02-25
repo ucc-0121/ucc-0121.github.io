@@ -1,5 +1,8 @@
-#這是UCC的網頁
+# 這是UCC的網頁
 ![5287396](https://i.imgur.com/1RZXEZp.png)
+
+
+```C
 #include <stdio.h>
 int main()
 {
@@ -14,3 +17,4 @@ int main()
 }
  printf("%d %d\n",m,n);
 }
+```
